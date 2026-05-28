@@ -21,5 +21,10 @@ describe("Calculadora de Cadenas", () => {
     expect(calculadora("3,1001,3")).toEqual(6);
   });
 
+  it("debería soportar un delimitador personalizado de cualquier longitud", () => {
+    expect(calculadora("//[;] 10;7;3")).toEqual(20);
+    expect(calculadora("//[***] 5***2***3")).toEqual(10);
+  });
+
 
 });

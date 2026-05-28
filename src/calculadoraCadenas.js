@@ -1,10 +1,25 @@
 function calculadora(cadena) {
   if (cadena === "") return 0;
- const numeros = cadena.split(/,|\-/);
+  let cadenaDeNumeros = cadena;
+  let separadores = [",", "-"];
+
+  if (cadena.startsWith("//")) {
+    const partes = cadena.split(" ");
+    const encabezado = partes[0]; 
+    cadenaDeNumeros = partes.slice(1).join(" "); 
+
+    const delim = encabezado.match(/\[(.*?)\]/)[1];
+    
+    const delimEscapado = delim.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    separadores.push(delimEscapado);
+  }
+
+  const regex = new RegExp(separadores.join("|"));
+  const numeros = cadenaDeNumeros.split(regex);
   
   return numeros
     .map(num => parseInt(num))
-    .filter(num => num <= 1000)
+    .filter(num => !isNaN(num) && num <= 1000)
     .reduce((suma, num) => suma + num, 0);
 }
 export default calculadora;

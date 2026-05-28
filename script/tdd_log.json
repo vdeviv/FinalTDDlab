@@ -110,9 +110,23 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "1771cda027d1b350496580bcee4060b6122917b4",
     "commitName": "5:Para una cadena que retorne la suma ignorando a los numeros mayores a 1000",
     "commitTimestamp": 1779938828051,
     "testId": 5
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1779939063233,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "6:Para una cadena que retorne la suma con diferentes delimitadores",
+    "commitTimestamp": 1779939110628,
+    "testId": 6
   }
 ]

@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "1771cda027d1b350496580bcee4060b6122917b4",
     "author": "vivi",
     "commit": {
       "date": "2026-05-28T03:27:07.000Z",
       "message": "5:Para una cadena que retorne la suma ignorando a los numeros mayores a 1000",
-      "url": "https://github.com/vdeviv/FinalTDDlab/commit/HEAD"
+      "url": "https://github.com/vdeviv/FinalTDDlab/commit/1771cda027d1b350496580bcee4060b6122917b4"
     },
     "stats": {
       "total": 13,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "vivi",
+    "commit": {
+      "date": "2026-05-28T03:31:49.000Z",
+      "message": "6:Para una cadena que retorne la suma con diferentes delimitadores",
+      "url": "https://github.com/vdeviv/FinalTDDlab/commit/HEAD"
+    },
+    "stats": {
+      "total": 24,
+      "additions": 22,
+      "deletions": 2,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
