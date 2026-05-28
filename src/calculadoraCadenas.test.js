@@ -17,5 +17,9 @@ describe("Calculadora de Cadenas", () => {
     expect(calculadora("2-2,5,5")).toEqual(14);
   });
 
+   it("debería ignorar los números mayores a 1000", () => {
+    expect(calculadora("3,1001,3")).toEqual(6);
+  });
+
 
 });

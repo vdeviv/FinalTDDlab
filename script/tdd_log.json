@@ -96,9 +96,23 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a5346b3f1a760b99c88a112348ce0f7a11df053a",
     "commitName": "4:Para una cadena que retorne la suma de mas de un numero con guiones o comas",
     "commitTimestamp": 1779938412772,
     "testId": 4
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1779938782217,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "5:Para una cadena que retorne la suma ignorando a los numeros mayores a 1000",
+    "commitTimestamp": 1779938828051,
+    "testId": 5
   }
 ]

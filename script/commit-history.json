@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a5346b3f1a760b99c88a112348ce0f7a11df053a",
     "author": "vivi",
     "commit": {
       "date": "2026-05-28T03:20:11.000Z",
       "message": "4:Para una cadena que retorne la suma de mas de un numero con guiones o comas",
-      "url": "https://github.com/vdeviv/FinalTDDlab/commit/HEAD"
+      "url": "https://github.com/vdeviv/FinalTDDlab/commit/a5346b3f1a760b99c88a112348ce0f7a11df053a"
     },
     "stats": {
       "total": 13,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "vivi",
+    "commit": {
+      "date": "2026-05-28T03:27:07.000Z",
+      "message": "5:Para una cadena que retorne la suma ignorando a los numeros mayores a 1000",
+      "url": "https://github.com/vdeviv/FinalTDDlab/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 10,
+      "deletions": 3,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }
