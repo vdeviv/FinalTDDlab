@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "486c9f3661da24d86c81f7185045187e47c29379",
     "author": "vivi",
     "commit": {
       "date": "2026-05-28T03:31:49.000Z",
       "message": "6:Para una cadena que retorne la suma con diferentes delimitadores",
-      "url": "https://github.com/vdeviv/FinalTDDlab/commit/HEAD"
+      "url": "https://github.com/vdeviv/FinalTDDlab/commit/486c9f3661da24d86c81f7185045187e47c29379"
     },
     "stats": {
       "total": 24,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "vivi",
+    "commit": {
+      "date": "2026-05-28T03:36:55.000Z",
+      "message": "7:Para una cadena que retorne la suma con muchos delimitadores",
+      "url": "https://github.com/vdeviv/FinalTDDlab/commit/HEAD"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 12,
+      "deletions": 3,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }

@@ -124,9 +124,23 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "486c9f3661da24d86c81f7185045187e47c29379",
     "commitName": "6:Para una cadena que retorne la suma con diferentes delimitadores",
     "commitTimestamp": 1779939110628,
     "testId": 6
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1779939396135,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "7:Para una cadena que retorne la suma con muchos delimitadores",
+    "commitTimestamp": 1779939416708,
+    "testId": 7
   }
 ]
