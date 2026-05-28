@@ -8,9 +8,15 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "1e72d76238820fb5e9d50a63877b0b9cda7659f2",
     "commitName": "pruebas",
     "commitTimestamp": 1779937221693,
     "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Para una cadena que retorne 0",
+    "commitTimestamp": 1779937472811,
+    "testId": 1
   }
 ]
