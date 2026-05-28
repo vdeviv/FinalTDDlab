@@ -9,5 +9,9 @@ describe("Calculadora de Cadenas", () => {
     expect(calculadora("3")).toEqual(3);
   });
 
+  it("debería retornar la suma de dos números separados por coma", () => {
+    expect(calculadora("2,2")).toEqual(4);
+  });
+
 
 });

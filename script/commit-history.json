@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "67f34479697c2dbeb80a143d08a7b3cf11bf71bf",
     "author": "vivi",
     "commit": {
       "date": "2026-05-28T03:13:54.000Z",
       "message": "2:Para una cadena que retorne el mismo numero",
-      "url": "https://github.com/vdeviv/FinalTDDlab/commit/HEAD"
+      "url": "https://github.com/vdeviv/FinalTDDlab/commit/67f34479697c2dbeb80a143d08a7b3cf11bf71bf"
     },
     "stats": {
       "total": 10,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "vivi",
+    "commit": {
+      "date": "2026-05-28T03:16:22.000Z",
+      "message": "3:Para una cadena que retorne la suma de dos numeros separados por una coma",
+      "url": "https://github.com/vdeviv/FinalTDDlab/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 10,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }

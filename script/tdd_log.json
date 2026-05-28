@@ -68,9 +68,23 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "67f34479697c2dbeb80a143d08a7b3cf11bf71bf",
     "commitName": "2:Para una cadena que retorne el mismo numero",
     "commitTimestamp": 1779938034863,
     "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1779938133110,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "3:Para una cadena que retorne la suma de dos numeros separados por una coma",
+    "commitTimestamp": 1779938183415,
+    "testId": 3
   }
 ]
