@@ -1,10 +1,7 @@
 function calculadora(cadena) {
   if (cadena === "") return 0;
-  const numeros = cadena.split(",");
-  let suma = 0;
-  for (let num of numeros) {
-    suma += parseInt(num);
-  }
-  return suma;
+  const numeros = cadena.split(/,|\-/); 
+
+  return numeros.reduce((suma, num) => suma + parseInt(num), 0);
 }
 export default calculadora;

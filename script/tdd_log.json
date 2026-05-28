@@ -82,9 +82,23 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "3b85805ccf751e0c0eb403e2a0d76d4d4cb22670",
     "commitName": "3:Para una cadena que retorne la suma de dos numeros separados por una coma",
     "commitTimestamp": 1779938183415,
     "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1779938367947,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "4:Para una cadena que retorne la suma de mas de un numero con guiones o comas",
+    "commitTimestamp": 1779938412772,
+    "testId": 4
   }
 ]

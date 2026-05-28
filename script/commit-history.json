@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3b85805ccf751e0c0eb403e2a0d76d4d4cb22670",
     "author": "vivi",
     "commit": {
       "date": "2026-05-28T03:16:22.000Z",
       "message": "3:Para una cadena que retorne la suma de dos numeros separados por una coma",
-      "url": "https://github.com/vdeviv/FinalTDDlab/commit/HEAD"
+      "url": "https://github.com/vdeviv/FinalTDDlab/commit/3b85805ccf751e0c0eb403e2a0d76d4d4cb22670"
     },
     "stats": {
       "total": 11,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "vivi",
+    "commit": {
+      "date": "2026-05-28T03:20:11.000Z",
+      "message": "4:Para una cadena que retorne la suma de mas de un numero con guiones o comas",
+      "url": "https://github.com/vdeviv/FinalTDDlab/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 7,
+      "deletions": 6,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
