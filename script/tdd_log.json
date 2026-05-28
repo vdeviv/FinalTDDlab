@@ -14,9 +14,63 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "1e2d2bfc6e767bc83a755417730490054254eb7f",
     "commitName": "Para una cadena que retorne 0",
     "commitTimestamp": 1779937472811,
     "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1779937496418,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 2,
+    "numTotalTests": 3,
+    "timestamp": 1779937772746,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 2,
+    "numTotalTests": 3,
+    "timestamp": 1779937812700,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1779937847151,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1779937947104,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1779937980804,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "2:Para una cadena que retorne el mismo numero",
+    "commitTimestamp": 1779938034863,
+    "testId": 2
   }
 ]
